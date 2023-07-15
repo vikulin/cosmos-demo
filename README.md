@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 # Installation
-
-`yarn install`
-
-`yarn build`
+```properties
+$ yarn install 
+$ yarn build
+```
