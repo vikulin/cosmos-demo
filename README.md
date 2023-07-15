@@ -1,5 +1,5 @@
 # cosmos-demo
-Created with CodeSandbox
+A small demo for cosmos library.
 
 # Installation
 ```properties
